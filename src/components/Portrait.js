@@ -17,7 +17,7 @@ export default function Portrait({ data, timeline }) {
           <Image
             src={data.image}
             fill={true}
-            alt='black woman'
+            alt='human'
             className='h-full w-full object-contain object-bottom'
             priority={true}
             placeholder='blur'
@@ -35,7 +35,7 @@ export default function Portrait({ data, timeline }) {
             <Image
               src={data.image}
               fill={true}
-              alt='black woman'
+              alt='human'
               className='h-full w-full object-contain object-bottom'
               priority={true}
               placeholder='blur'
