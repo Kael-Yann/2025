@@ -33,38 +33,44 @@
   "work": {
     "projects": [
       {
+        "id": 0,
         "title": "First Dance",
         "url": "",
-        "media": "/work.png"
+        "media": "/work.png",
+        "description": "Une première danse inoubliable avec ambiance magique et romantique."
       },
       {
+        "id": 1,
         "title": "Cocktail Hour",
         "url": "",
-        "media": "/work.png"
-
+        "media": "/work.png",
+        "description": "Musique légère et festive pour le cocktail et les moments conviviaux."
       },
       {
+        "id": 2,
         "title": "Dinner Music",
         "url": "",
-        "media": "/work.png"
-
+        "media": "/work.png",
+        "description": "Ambiance douce et élégante pour accompagner le dîner des invités."
       },
       {
+        "id": 3,
         "title": "After Party",
         "url": "",
-        "media": "/work.png"
-
+        "media": "/work.png",
+        "description": "Musique entraînante pour que les invités dansent et s'amusent jusqu’au bout."
       },
       {
+        "id": 4,
         "title": "Last Dance",
         "url": "",
-        "media": "/work.png"
+        "media": "/work.png",
+        "description": "Clôture mémorable de la soirée avec une dernière danse inoubliable."
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"  
   },
 
- 
   "socials": {
     "links": [
       {
